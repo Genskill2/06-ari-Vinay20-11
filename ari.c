@@ -20,7 +20,7 @@ if((int)(score+0.5)>(int)score)
 score=(int)(score+0.5);
 else
 score=(int)(score)+1;
-switch(score)
+switch((int)score)
 {
 case 1:return "Kindergarten";
        break;
