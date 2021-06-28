@@ -1,4 +1,7 @@
 #include<string.h>
+#include<stdio.h>
+#include<cs50.h>
+#include<ctype.h>
 string ari(string a)
 {
 float score;
