@@ -22,7 +22,7 @@ case 1:return "Kindergarten";
        break;
 case 2:return "First/Second Grade";
        break; 
-case 3:return "Third Grade"
+case 3:return "Third Grade";
        break;
 case 4:return "Fourth Grade";
        break;
